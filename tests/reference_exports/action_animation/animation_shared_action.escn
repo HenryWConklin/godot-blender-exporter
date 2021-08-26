@@ -65,6 +65,7 @@ tracks/0/keys = [0.0, 1.0, -0.0829935, -0.0705722, -0.022377, 0.0, 0.0, 0.0, 1.0
 [node name="Empty" type="Spatial" parent="."]
 
 transform = Transform(1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, -0.423298, 3.01148, 1.29288)
+__meta__ = { "empty_draw_type": "PLAIN_AXES" }
 
 [node name="Cube" type="MeshInstance" parent="Empty"]
 

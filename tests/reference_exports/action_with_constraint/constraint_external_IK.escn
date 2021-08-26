@@ -54,6 +54,7 @@ surfaces/0 = {
 [node name="Empty" type="Spatial" parent="."]
 
 transform = Transform(1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, -0.0171195, 2.39886, 0.930052)
+__meta__ = { "empty_draw_type": "PLAIN_AXES" }
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="Empty"]
 
